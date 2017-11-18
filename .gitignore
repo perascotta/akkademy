@@ -63,3 +63,6 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
+
+# Scala Work Space
+.sc

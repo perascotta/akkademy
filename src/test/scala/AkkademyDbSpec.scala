@@ -1,6 +1,6 @@
 import akka.actor.ActorSystem
 import akka.testkit.TestActorRef
-import com.akkademy.{AkkademyDb, SetRequest}
+import com.akkademy.akkademy_db.{AkkademyDb, SetRequest}
 import org.scalatest.{BeforeAndAfterEach, FunSpecLike, Matchers}
 
 class AkkademyDbSpec extends FunSpecLike with Matchers with BeforeAndAfterEach {
